@@ -6,6 +6,7 @@
 }
 
 .container {
+    width: 100%;
     max-width: 1440px;
     margin: 0 auto;
     text-align: center;
@@ -467,15 +468,11 @@ header .but button:hover {
     height: 24px;
 }
 .section__part_4 .wrapper_4 .card .card_info button p{
-    /* width: 96px; */
     display: flex;
-    /* height: 24px; */
     font-weight: 600;
     line-height: 24px;
-    /* text-align: left; */
     font-size: 15px;
     color: #fff;
     margin-top: 13px;
     margin-left: 8px;
-    /* padding-left: 6px; */
 }
