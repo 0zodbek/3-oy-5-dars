@@ -298,6 +298,7 @@ header .but button:hover {
     color: #fff;
 }
 
+
 .cardwrapper_3 .ads .info_3 button {
     padding: 10px 43px;
     font-size: 16px;
@@ -457,12 +458,17 @@ header .but button:hover {
     border-radius: 8px;
     padding: 13px 60px;
     transition: all 1s;
+    gap: 8px;
+    font-weight: 600;
+    color: #fff;
 }
 
 .section__part_4 .wrapper_4 .card .card_info button:hover {
     transform: scale(0.9);
     background: #91d095;
+    color: red;
 }
+
 .section__part_4 .wrapper_4 .card .card_info button span {
     width: 24px;
     height: 24px;

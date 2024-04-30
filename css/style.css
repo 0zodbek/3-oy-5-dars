@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.section__part_5 .container .part {
+  width: 1185px;
+  position: relative;
+  height: 444.38px;
+  background: linear-gradient(90deg, #EEF7EE, #BAD6BB);
+  margin-top: 120px;
+  border-radius: 24px;
+  margin-bottom: 50px;
+}
+.section__part_5 .container .part .mint {
+  position: absolute;
+  left: 118px;
+  top: 279px;
+  z-index: 3;
+}
+.section__part_5 .container .part .bag {
+  position: absolute;
+  left: 196px;
+  top: 35px;
+  z-index: 2;
+}
+.section__part_5 .container .part .clove {
+  position: absolute;
+  top: 255px;
+  left: 277px;
+  z-index: 1;
+}
+.section__part_5 .container .part .water {
+  position: absolute;
+  left: 10px;
+  bottom: 10px;
+}/*# sourceMappingURL=style.css.map */
