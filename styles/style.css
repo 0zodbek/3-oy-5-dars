@@ -1,3 +1,9 @@
+/* global */
+@import url(https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;800;900&display=swap);
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
 * {
     margin: 0;
     padding: 0;
@@ -84,6 +90,8 @@ header .but button {
     border: transparent;
     transition: all 1.4s;
     padding: 8px 9px;
+    font-size: 24px;
+    color: #494961;
 }
 
 header .but button:hover {
@@ -148,11 +156,7 @@ header .but button:hover {
     transition: all 1s;
 }
 
-.section__part_1 .info_part button span {
-    text-align: center;
-    display: flex;
-    align-items: center;
-}
+
 
 .section__part_1 .info_part button:hover {
     border: 1px solid #405741;
