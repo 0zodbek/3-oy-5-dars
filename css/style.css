@@ -76,7 +76,7 @@
   text-align: center;
   justify-content: center;
   gap: 8px;
-  transition: cubic-bezier();
+  transition: all 1s;
 }
 .part_5_info button:hover {
   background: #fff;
